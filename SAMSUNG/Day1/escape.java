@@ -1,4 +1,4 @@
-package com.Algorithm_java.SAMSUNG.day_1;
+package com.Algorithm_java.SAMSUNG.Day1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
